@@ -14,6 +14,3 @@
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.com)
 
-### CodeWars:
-
-![CodeWars](https://www.codewars.com/users/jazzy86/badges/large)
