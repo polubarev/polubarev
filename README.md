@@ -25,4 +25,4 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com)
 
 <a href="https://t.me/easytosay" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="easytosay" height="30" width="40" /></a> 
-<a href="mailto:ipolubarev@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="ipolubarev@gmail.com" height="30" width="40" /></a>
+<a href="mailto:i.polubarev@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="i.polubarev@gmail.com" height="30" width="40" /></a>
