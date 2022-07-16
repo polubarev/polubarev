@@ -3,11 +3,6 @@
 ### Once I became interested in Data Science and no one saw me more :man_scientist:
 
 
-### 🔭Contact me:
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.ipolubarev@gmail.com)
-
-
 ### Stack:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
