@@ -24,5 +24,5 @@
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com)
 
-<a href="https://t.me/easytosay" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="bekalsu" height="30" width="40" /></a> 
-<a href="mailto:ipolubarev@gmail.com" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/622/566/png-transparent-yandex-mail-email-computer-icons-rambler-email-miscellaneous-angle-rectangle.png" alt="kostyagomel44@yandex.ru" height="30" width="40" /></a>
+<a href="https://t.me/easytosay" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="easytosay" height="30" width="40" /></a> 
+<a href="mailto:ipolubarev@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="ipolubarev@gmail.com" height="30" width="40" /></a>
